@@ -1,0 +1,26 @@
+#name {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  text-align: center;
+  color: white;
+  background-color: navy;
+
+}
+
+#footer {
+  color: white;
+  font-weight: 900;
+  text-align: center;
+  padding: 5px;
+  background-color: navy;
+  
+}
+
+.points {
+    font-weight: 900;
+    font-size: 28px;
+
+}
